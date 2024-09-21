@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanaya Pawar</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">Masters student at New York University with major in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaya09&label=Profile%20views&color=0e75b6&style=flat" alt="tanaya09" /> </p>
 
-- 🔭 I’m currently working on **Twitter Sentiment Analysis**
+- 🔭 I’m currently working on **Time Banking App**
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+- 🌱 I’m currently learning ** React**
 
-- 💬 Ask me about **Python,Powerbi**
+- 💬 Ask me about **Python,Powerbi, Machine Learning, Data Science**
 
 - 📫 How to reach me **tanayap70@gmail.com**
 
