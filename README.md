@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Time Banking App**
 
-- 🌱 I’m currently learning ** React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Python,Powerbi, Machine Learning, Data Science**
 
