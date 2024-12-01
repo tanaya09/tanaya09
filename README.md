@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaya09&label=Profile%20views&color=0e75b6&style=flat" alt="tanaya09" /> </p>
 
-- 🔭 I’m currently working on **Time Banking App**
+- 🔭 I’m currently working on **Time Banking App and ProResume Builder**
 
 - 🌱 I’m currently learning **React**
 
