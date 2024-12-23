@@ -77,5 +77,3 @@
   </a>
 </p>
 
-## 📈 Contribution Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanaya09&theme=radical)
