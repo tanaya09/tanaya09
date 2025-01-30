@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  🔭 Currently working on **Time Banking App and ProResume Builder**
+  🔭 Currently working on **ProResume Builder**
   
   🌱 Learning **Next.js**
   
