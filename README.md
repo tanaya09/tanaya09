@@ -18,12 +18,12 @@
 </div>
 
 ## 🔥 My Stats
-<div align="center">
+<div >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanaya09&theme=radical" alt="tanaya09's streak stats" />
 </div>
 
 ## 📊 GitHub Profile Stats
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=tanaya09&show_icons=true&theme=radical" alt="tanaya09's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaya09&layout=compact&theme=radical" alt="top langs" />
 </div>
@@ -37,8 +37,8 @@
   </p>
 <h3 align="left">  Take look at my portfolio : </h3>
 <p align="left">
-  <a href ="https://tanaya09.github.io" target="blank">
-  </a>
+  <a href ="https://tanaya09.github.io" target="blank">Visit My Portfolio</a>
+  
   
   
 
