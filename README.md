@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/tanaya09/tanaya09/blob/main/TANAYA PAWAR.png" alt="My Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanaya Pawar</h1>
 <h3 align="center">Masters student at New York University with major in Computer Science</h3>
 
