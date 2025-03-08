@@ -12,14 +12,15 @@
 
 
 
-### 🎨 Skills Palette:
+<h3>🎨 Skills Palette:</h3>
 <div>
-- Languages: Python, JavaScript, C++, R, HTML, CSS, XML, AJAX
-- Databases: SQL, MongoDB, PostgreSQL
-- Frameworks: Django, Django Rest Framework, React, NextJs, Nodejs, Expressjs, Bootstrap
-- Tools: Docker, AWS, Git. Power BI, Hadoop, Spark
-- Libraries: Streamlit, Tensorflow, Keras, Sci-kit Learn, Pandas, NumPy, NLTK, PyTorch, OpenCV, Matplotlib
+  <strong>Languages:</strong> Python, JavaScript, C++, R, HTML, CSS, XML, AJAX<br>
+  <strong>Databases:</strong> SQL, MongoDB, PostgreSQL<br>
+  <strong>Frameworks:</strong> Django, Django Rest Framework, React, Next.js, Node.js, Express.js, Bootstrap<br>
+  <strong>Tools:</strong> Docker, AWS, Git, Power BI, Hadoop, Spark<br>
+  <strong>Libraries:</strong> Streamlit, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, NLTK, PyTorch, OpenCV, Matplotlib
 </div>
+
 
 ### 🌈 How I Can Add Color:
 <div>
