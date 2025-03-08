@@ -2,18 +2,38 @@
   <img src="https://github.com/tanaya09/tanaya09/blob/main/TANAYA PAWAR BANNER.png" alt="My Banner">
 </p>
 
-<h1>Hi 👋, I'm Tanaya Pawar</h1>
-<h3>Masters student at New York University with major in Computer Science</h3>
+<h1>Hey everyone!</h1>
+<h3>If you've scrolled this far to know more about my technological skills, I appreciate it! I'm Tanaya Vinod Pawar, a Master's student in Computer Science at NYU, where I blend my passion for technology with a zest for continuous learning.
+</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=tanaya09&label=Profile%20views&color=0e75b6&style=flat" alt="tanaya09" />
 </p>
 
+
+
+### 🎨 Skills Palette:
+<div>
+- **Languages:** Python, JavaScript, C++, R, HTML, CSS, XML, AJAX
+- **Databases:** SQL, MongoDB, PostgreSQL
+- **Frameworks:** Django, Django Rest Framework, React, NextJs, Nodejs, Expressjs, Bootstrap
+- **Tools:** Docker, AWS, Git. Power BI, Hadoop, Spark
+- **Libraries:** Streamlit, Tensorflow, Keras, Sci-kit Learn, Pandas, NumPy, NLTK, PyTorch, OpenCV, Matplotlib
+</div>
+
+### 🌈 How I Can Add Color:
+<div>
+- Ask me about anything from backend logic to frontend frameworks—I’m here to help!
+- Got a data analysis puzzle? I’m your solver!
+- Let’s discuss emerging tech and the future of AI and machine learning.
+</div>
 <div>
   
   💬 Ask me about **Python, Data Structures and Algorithms, Data Analysis, Machine Learning, Data Science, Big Data**
   
   📫 Feel free to contact me for collaborating on projects/discussions/opportunities at **tanayap70@gmail.com**
+
+  ⚡ Fun fact about me is that I love to dance, so if you know any workshops let me know :)
   
 </div>
 
@@ -38,6 +58,8 @@
 <h3 align="left">  Take look at my portfolio : </h3>
 <p align="left">
   <a href ="https://tanaya09.github.io" target="blank">Visit My Portfolio</a>
+
+
   
   
   
