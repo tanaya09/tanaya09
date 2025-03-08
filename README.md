@@ -22,11 +22,11 @@
 </div>
 
 
-### 🌈 How I Can Add Color:
+<h3> 🌈 How I Can Add Color:</h3>
 <div>
-- Ask me about anything from backend logic to frontend frameworks—I’m here to help!
-- Got a data analysis puzzle? I’m your solver!
-- Let’s discuss emerging tech and the future of AI and machine learning.
+- Ask me about anything from backend logic to frontend frameworks—I’m here to help!<br>
+- Got a data analysis puzzle? I’m your solver!<br>
+- Let’s discuss emerging tech and the future of AI and machine learning.<br>
 </div>
 <div>
   
