@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tanaya09/tanaya09/blob/main/TANAYA PAWAR.png" alt="My Banner">
+  <img src="https://github.com/tanaya09/tanaya09/blob/main/TANAYA PAWAR BANNER.png" alt="My Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanaya Pawar</h1>
