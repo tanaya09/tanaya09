@@ -32,7 +32,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/tanayapawar/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanaya pawar" height="30" width="40" />
+  
   </a>
+  </p>
+<h3 align="left">  Take look at my portfolio : </h3>
+<p align="left">
+  <a href ="https://tanaya09.github.io" target="blank">
+  </a>
+  
   
 
 </p>
