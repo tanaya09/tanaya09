@@ -3,7 +3,7 @@
 </p>
 
 <h1>Hey everyone!</h1>
-<h3>If you've scrolled this far to know more about my technological skills, I appreciate it! I'm Tanaya Vinod Pawar, a Master's student in Computer Science at NYU, where I blend my passion for technology with a zest for continuous learning.
+<h3>If you've come this far to know more about my technological skills, I appreciate it! I'm Tanaya Vinod Pawar, a Master's student in Computer Science at NYU, where I blend my passion for technology with a zest for continuous learning.
 </h3>
 
 <p>
